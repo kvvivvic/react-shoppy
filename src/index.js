@@ -10,7 +10,6 @@ import NewProduct from "./pages/NewProducts";
 import MyCart from "./pages/MyCart";
 import NotFound from "./pages/NotFound";
 import ProtectedRoute from "./pages/ProtectedRoute";
-
 const router = createBrowserRouter([
   {
     path: "/",
